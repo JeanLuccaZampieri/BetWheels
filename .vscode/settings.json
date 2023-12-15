@@ -1,0 +1,32 @@
+{
+  "java.compile.nullAnalysis.mode": "automatic",
+  "cSpell.words": [
+    "Alterar",
+    "Alterar'class",
+    "Cadastrar",
+    "Cadastro",
+    "Cancelar",
+    "Cancelar'class",
+    "carro",
+    "Carros",
+    "Conta",
+    "convertido",
+    "Digitar",
+    "Formulario",
+    "indice",
+    "limpar",
+    "marca",
+    "mensagem",
+    "pagina",
+    "Paginas",
+    "Piloto",
+    "pilotos",
+    "retornar",
+    "retorno",
+    "Selecionar",
+    "Tabela",
+    "Usuario",
+    "vetor"
+  ],
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
